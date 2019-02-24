@@ -12,12 +12,6 @@
     "graphviz",
     "emscripten"
   ],
-  "files": [
-    "viz.js",
-    "viz.es.js",
-    "full.render.js",
-    "lite.render.js"
-  ],
   "browser": {
     "fs": false,
     "path": false,
